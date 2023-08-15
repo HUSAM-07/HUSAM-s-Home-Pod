@@ -8,7 +8,7 @@ def main():
 
     image = Image.open('Wifi.jpg')
 
-    st.image(image, caption='Sunrise by the mountains')
+    st.image(image, caption='Scan for Wifi')
 
 if __name__ == "__main__":
     main()
